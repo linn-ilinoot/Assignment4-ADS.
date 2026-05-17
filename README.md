@@ -34,6 +34,10 @@ Time Complexity:
 O(V + E)
 
 ## Experimental Results
+<img width="1920" height="1020" alt="Снимок экрана 2026-05-17 161311" src="https://github.com/user-attachments/assets/beb92c1d-9189-4cc0-bdcb-97419d1b88c9" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-05-17 161449" src="https://github.com/user-attachments/assets/0908b0e1-1fb0-495d-b1d6-0340fe6a8802" />
+
+
 
 Graphs tested:
 - 10 vertices
